@@ -18,13 +18,18 @@
 <!-- ABOUT THE PROJECT -->
 # About The Project
 
-It is a browser based chat app. You can create and join a room and chat with your friends in that room. You can send messages and shar you locations. Language profanity is also banned in this chat app
+This project is a browser based chat web app. In this browser based chat web app, In order to start communicating with others, you first have to create a room to start a chatting room or if you already have a room id you can join and start chatting with anyone you want. In this chat app you can send messages as well as share you locations. Language profanity is also banned in this chat app. The time of every message will also be shown along with the messages. Any bad, abusive or foul language will automatically be discarded. Also, the message screen will auto scroll. Whenever a new message will come and the screen height is full, it will auto scroll upwards in order to show the new messages. It will also show the name of every user who is currently in the chat room, and whenever a new user join or left, all the existing users will be notified for these action simultaneously.
 
 ### Basic Functionality of this project:
 
-- Send/Receive Messages
-- Multiple people can join a room and chat
-- Send/Receive your current location
+- Users can Send/Receive messages
+- Time of each message will be shown
+- Multiple people can join a room and chat together
+- Only two people can also make a room and chat together
+- Users can Send/Receive your current location
+- Auto Scrolling of messages whenever a new message came
+- Showing the list of online users
+- Notifying existing users if a user Joined/Left
 
 ## 🏗️: Built With
 
